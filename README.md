@@ -1,5 +1,4 @@
 # SourceTree_Git_Portable
-Run SourceTree with portable git
 
 Step 1:
 - Open Git bash
